@@ -23,7 +23,7 @@ Dashboards en Power BI que destacan la capacidad de transformar datos complejos 
 
 ### 💻 **Otros Recursos**  
 Ejercicios, notas y ejemplos prácticos relacionados con:  
-- Bases de datos SQL Server y PostgreSQL.  
+- Bases de datos SQL Server.  
 - Diseño de algoritmos y estructuras de datos.  
 - Mejores prácticas en programación y análisis.  
 
